@@ -9,7 +9,7 @@ Every letter is converted to vector paths: the SVGs render the same everywhere, 
 | --- | --- | --- |
 | `logo/` | Full logo (باليا + BALEEA.IQ) and wordmark (باليا only), SVG + PNG 2400px | Website, posts, packaging, print |
 | `mark/` | ب in a circle with the petal | Small spaces, stickers, watermark on photos |
-| `social/` | 1080×1080 profile pictures · 1640×624 Facebook covers (`color` blush, `reverse` rose), SVG + PNG | Instagram, TikTok, WhatsApp Business · Facebook page cover |
+| `social/` | 1080×1080 avatars with the full word «باليا» (`avatar-baleea-rose/blush/white/ink`) and profile pictures · 1640×624 Facebook covers (`color` blush, `reverse` rose), SVG + PNG | Instagram, TikTok, WhatsApp Business · Facebook page cover |
 | `web/` | `icon.svg`, favicons 16/32/48, app icons 180/192/512 | Browser tab, phone home screen |
 | `other-directions/` | Directions 1, 2 and 4 from the concept board | Reference only |
 
@@ -30,5 +30,5 @@ Variants: `color` (on white/light) · `reverse` (on rose or dark, keeps accents)
 - Clear space around the logo: at least the height of the petal on every side.
 - Smallest size: full logo 120px wide on screen; below that, use the mark.
 - Don't recolour the petal outside the palette, stretch, add shadows, or re-type the name in another font.
-- Profile pictures: `profile-mark` (ب on rose) reads best at small sizes; `profile-wordmark` is the softer option.
+- Profile pictures: `avatar-baleea-rose` (the full word باليا, white on rose) is the main avatar for Instagram, Facebook, TikTok and WhatsApp — still readable at 110px. `profile-mark` (ب only) is for very small spots; `profile-wordmark` is the softer option with BALEEA.IQ.
 - Facebook cover: upload the PNG as is. Phones crop the sides, so the logo and text sit in the middle ~1040px; the petals at the edges are free to be cut off.
